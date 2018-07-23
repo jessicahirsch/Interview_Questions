@@ -1,4 +1,5 @@
 // Question 1
+// What are these functions trying to accomplish?
 
 Array.from(document.querySelectorAll("span")).filter(text => text.classList.contains("css-16r1tk9"));
 
