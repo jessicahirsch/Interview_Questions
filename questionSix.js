@@ -1,0 +1,10 @@
+<div class="n-element n-shift-locked"></div>
+<div class="n-element n-lost"></div>
+<div class="n-element n-lost"></div>
+<div class="n-element"></div>
+<div class="n-element n-lost"></div>
+<div class="n-element n-shift-locked"></div>
+<div class="n-element n-locked"></div>
+<div class="n-element n-locked"></div>
+<div class="n-element n-locked"></div>
+<div class="n-element"></div>
